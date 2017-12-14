@@ -1,0 +1,7 @@
+
+defaultServer = "8.8.8.8"
+
+[servers]
+  "8.8.4.4" = [
+    "github.com",
+  ]
